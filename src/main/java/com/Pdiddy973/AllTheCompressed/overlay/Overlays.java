@@ -79,6 +79,8 @@ public enum Overlays {
     COBBLED_DEEPSLATE(Mods.MINECRAFT, "cobbled_deepslate"),
     COBBLESTONE(Mods.MINECRAFT, "cobblestone"),
     COPPER(Mods.MINECRAFT, "copper_block"),
+    CRIMSON_STEM(Mods.MINECRAFT, "crimson_stem"),
+    CRIMSON_PLANKS(Mods.MINECRAFT, "crimson_planks"),
     DARK_OAK_LOG(Mods.MINECRAFT, "dark_oak_log"),
     DARK_OAK_PLANKS(Mods.MINECRAFT, "dark_oak_planks"),
     DEEPSLATE(Mods.MINECRAFT, "deepslate"),
@@ -123,6 +125,8 @@ public enum Overlays {
     STONE(Mods.MINECRAFT, "stone"),
     TERRACOTTA(Mods.MINECRAFT, "terracotta"),
     TUFF(Mods.MINECRAFT, "tuff"),
+    WARPED_STEM(Mods.MINECRAFT, "warped_stem"),
+    WARPED_PLANKS(Mods.MINECRAFT, "warped_planks"),
 
     // Powah
     BLAZING_CRYSTAL(Mods.POWAH, "blazing_crystal_block"),

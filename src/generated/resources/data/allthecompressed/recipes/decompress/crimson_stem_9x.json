@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "allthecompressed:crimson_stem_9x"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "allthecompressed:crimson_stem_8x"
+  }
+}
