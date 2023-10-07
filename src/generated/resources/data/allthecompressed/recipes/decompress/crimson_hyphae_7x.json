@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "allthecompressed:crimson_hyphae_7x"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "minecraft:crimson_hyphae_6x"
+  }
+}
